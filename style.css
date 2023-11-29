@@ -1,0 +1,23 @@
+
+body{
+    background-color: white;
+    margin: none;
+}
+
+.titulo{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.conatiner1{
+    display: flex;
+    width: 100%;
+}
+
+.text{
+    display: flex;
+    width: 50%;
+}
